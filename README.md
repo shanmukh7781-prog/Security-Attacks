@@ -6,3 +6,4 @@ Technologies:
 - Backend: Node.js  
 - Deployment: [Security Hacking]( https://nimble-pastelito-40f85c.netlify.app/)
 Note: For the best experience, please open this application on a desktop browser.
+![1](https://github.com/user-attachments/assets/6ab14143-ba0e-485b-a8c3-d77bce633d75)
